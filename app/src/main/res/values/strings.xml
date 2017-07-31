@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="go_to_ad_Text">View</string>
+    <string name="facebook_app_id" translatable="false">151161208311387</string>
+</resources>
