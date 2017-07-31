@@ -7,3 +7,20 @@
 /build
 /captures
 .externalNativeBuild
+
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio
+.idea/
+/*/local.properties
+/*/out/
+/*/*/build
+build/
